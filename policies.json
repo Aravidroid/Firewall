@@ -1,0 +1,12 @@
+{
+    "whitelist": {
+        "applications": ["chrome.exe"],
+        "domains": ["youtube.com", "chatgpt.com"],
+        "ips": ["8.8.8.8", "1.1.1.1"]
+    },
+    "blacklist": {
+        "applications": ["msedge.exe","svchost.exe", "nearby_share.exe"],
+        "domains": ["amazon.in", "flipkart.com"],
+        "ips": ["192.168.1.10"]frontend/policies.json
+    }
+}
